@@ -1,0 +1,7 @@
+#   ignore this stuff
+
+#   ignore vscode folder
+vscode/
+
+#   ignore all temporary files
+temp/
